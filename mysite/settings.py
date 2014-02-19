@@ -49,6 +49,7 @@ MIDDLEWARE_CLASSES = (
 
 ROOT_URLCONF = 'mysite.urls'
 
+
 WSGI_APPLICATION = 'mysite.wsgi.application'
 
 
